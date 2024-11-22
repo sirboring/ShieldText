@@ -4,20 +4,15 @@
   "description": "ShieldText",
   "main": "index.html",
   "scripts": {
-    "start": "ShieldText,exe"
+    "start": "ShieldText.exe"
   },
-  "dependencies": {
-    "express": "^4.13.3"
-  },
-  "engines": {
-    "node": "4.0.0"
-  },
+  
   "repository": {
     "type": "git",
-    "url": "https://github.com/sirboring/ShieldText"
+    "url": "https://github.com/sirboring/ShieldText.git"
   },
   "keywords": [
-    "TEXT",
+    "text",
     "encryption",
     "ShieldText"
   ],
