@@ -1,24 +1,5 @@
 {
-  "name": "ShieldText",
-  "version": "1.1.0",
-  "description": "ShieldText",
-  "main": "index.html",
-  "scripts": {
-    "start": "ShieldText.exe"
-  },
-  
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/sirboring/ShieldText.git"
-  },
-  "keywords": [
-    "text",
-    "encryption",
-    "ShieldText"
-  ],
-  "author": "R.C.Davis",
-  "contributors": [
-    " <> ()"
-  ],
-  "license": "MIT"
-}
+  "homepage": "https://github.com/sirboring/ShieldText",
+
+   }
+ 
